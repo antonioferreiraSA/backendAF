@@ -105,6 +105,7 @@ coverage
 ############################
 # Strapi
 ############################
+Path: ./backendAF/.gitignore
 
 .env
 license.txt
